@@ -1,0 +1,13 @@
+Mera House Supabase connection is configured.
+Project URL: https://kjcapcasadlvalwxngqn.supabase.co
+Publishable browser key is stored in assets/js/supabase-config.js.
+No secret/service-role key is included.
+
+Integrated frontend features:
+- properties read
+- homepage featured properties
+- property search/filter
+- property details
+- sign in
+- sign up
+- favorites
